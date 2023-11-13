@@ -90,9 +90,11 @@ _Codigo aqui_
 
 # Clase 4
 
-                C1
+$ git add .gitignore
+$ git commit -m "C2 add .gitignore"
+                C1           C2
 ----<><><...>---|---------<>-|-- (On branch master)
-              a5c84dd      43eab06
+              33b0cab      3a8e031
 ----<><><....>---|---(main) -< (req / fix)
                  |       C1
                  |---<><>|<...>-*(Config)
