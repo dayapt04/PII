@@ -1,10 +1,18 @@
-# CLASE 1
+# ARCHIVOS CLASES
 
-## IDE
+## Clase 1
 
-Entorno de desarrollo integrado.
+### IDE: Entorno de desarrollo integrado
 
-## Segunda clase
+1. Instalar jdk.
+2. Instalar gitbash
+3. Instalar Vscode
+4. Crear un repositorio en github (<https://github.com/new>)
+5. Jugar - mecanografía
+6. Extensiones para VSCODE
+7. Consola terminal
+
+## Clase 2
 
 * Shortcuts VSCODE
 
@@ -49,9 +57,9 @@ ___Negrita y cursiva___
 lenguaje
 _Codigo aqui_
 
-# Clase 3
+## Clase 3
 
-## GIT
+### GIT
 
 * Git fue creado en 2005 por Luis Torvalds (creador de Linux) como herramiento para acilitar el desrrollo colaborativo de software. Desde entonces han surgido incluso populares plataformas, como GitHub o GitLab, que permiten su uso online.
 * Ayuda a trabajar colaborativamete.
@@ -78,7 +86,7 @@ _Codigo aqui_
 10. git clone <URL del repositorio>
 11. git clone <URL del repositorio> miNombre
 
-## Linux
+### Linux
 
 1. clear
 2. ctrl + l     (arrow up) (tab: autocomplete)
@@ -96,9 +104,9 @@ $ git commit -m "C2 add .gitignore"
 ----<><><...>---|---------<>-|-- (On branch master)
               33b0cab      3a8e031
 
-# Clase 4
+## Clase 4
 
-## branch + merge
+### branch + merge
 
 ----<><><....>---|---              (main)-----< (req / fix)
                  |                   ^
@@ -106,7 +114,7 @@ $ git commit -m "C2 add .gitignore"
                  |---<><>|--...------|*(Config)
                         759e31a
 
-## Linux (continuación)
+### Linux (continuación)
 
 1. git branch -m main (renombrar rama)
 2. git checkout main (cambiar a la rama principal)
