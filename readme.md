@@ -88,17 +88,18 @@ _Codigo aqui_
 8. rm nombrearchivo.txt (eliminar archivo)
 9. touch  (crear el archivo)
 
-# Clase 4
-
 $ git add .gitignore
 $ git commit -m "C2 add .gitignore"
                 C1           C2
 ----<><><...>---|---------<>-|-- (On branch master)
               33b0cab      3a8e031
-----<><><....>---|---(main) -< (req / fix)
-                 |       C1
+
+# Clase 4
+
+----<><><....>---|---(main)-----< (req / fix)
+                 |
+                 |
                  |---<><>|<...>-*(Config)
-                       93fa79b
 
 ## Linux (continuación)
 
