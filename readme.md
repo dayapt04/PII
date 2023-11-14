@@ -1,6 +1,8 @@
 # CLASE 1
 
--IDE: Entorno de desarrollo integrado.
+## IDE
+
+Entorno de desarrollo integrado.
 
 ## Segunda clase
 
