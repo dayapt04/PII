@@ -96,10 +96,13 @@ $ git commit -m "C2 add .gitignore"
 
 # Clase 4
 
-----<><><....>---|---(main)-----< (req / fix)
-                 |
-                 |
-                 |---<><>|<...>-*(Config)
+## branch + merge
+
+----<><><....>---|---              (main)-----< (req / fix)
+                 |                   ^
+                 |       C1          |
+                 |---<><>|--...------|*(Config)
+                        759e31a
 
 ## Linux (continuación)
 
